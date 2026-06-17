@@ -1,0 +1,40 @@
+# Geotechnik — Minden
+
+> Geotechnical engineering services in Minden, Deutschland.
+
+## Services
+- [Atterberg Grenzen](https://minden.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://minden.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://minden.geotechnik.sbs/aushub-monitoring/)
+- [Bodenverbesserung](https://minden.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://minden.geotechnik.sbs/boschungsstabilitat/)
+- [Flexibler Belag](https://minden.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://minden.geotechnik.sbs/fundamente/)
+- [Geophysik](https://minden.geotechnik.sbs/geophysik/)
+- [Grundungen](https://minden.geotechnik.sbs/grundungen/)
+- [Hange](https://minden.geotechnik.sbs/hange/)
+- [Injektionen](https://minden.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://minden.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://minden.geotechnik.sbs/labor/)
+- [Labor In Situ](https://minden.geotechnik.sbs/labor-in-situ/)
+- [Plattendruckversuch](https://minden.geotechnik.sbs/plattendruckversuch/)
+- [Sandkegel Dichte](https://minden.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://minden.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://minden.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://minden.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://minden.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://minden.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://minden.geotechnik.sbs/spt-bohrung/)
+- [Strassenbau](https://minden.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://minden.geotechnik.sbs/stutzmauern/)
+- [Untersuchung](https://minden.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://minden.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://minden.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://minden.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://minden.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Minden, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
